@@ -1,4 +1,5 @@
-package com.credera.querydsl;
+package com.credera.postman;
+
 
 import com.mysema.query.types.expr.BooleanExpression;
 
