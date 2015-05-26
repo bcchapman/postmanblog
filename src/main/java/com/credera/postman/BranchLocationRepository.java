@@ -1,4 +1,4 @@
-package com.credera.querydsl;
+package com.credera.postman;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.querydsl.QueryDslPredicateExecutor;

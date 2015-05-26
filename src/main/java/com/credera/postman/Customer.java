@@ -1,4 +1,4 @@
-package com.credera.querydsl;
+package com.credera.postman;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;

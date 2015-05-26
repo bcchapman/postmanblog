@@ -1,4 +1,4 @@
-package com.credera.querydsl.rest;
+package com.credera.postman.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.credera.querydsl.BranchLocation;
-import com.credera.querydsl.BranchLocationRepository;
-import com.credera.querydsl.rest.exception.BranchNotFoundException;
-import com.credera.querydsl.rest.exception.InvalidBranchException;
+import com.credera.postman.BranchLocation;
+import com.credera.postman.BranchLocationRepository;
+import com.credera.postman.rest.exception.BranchNotFoundException;
+import com.credera.postman.rest.exception.InvalidBranchException;
 
 
 @RestController

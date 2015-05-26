@@ -1,4 +1,4 @@
-package com.credera.querydsl;
+package com.credera.postman;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
